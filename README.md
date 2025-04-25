@@ -1,5 +1,5 @@
 
-# .NET AOP (Aspect Oriented Programming) Tutorial - Türkçe
+# .NET AOP (Aspect Oriented Programming)
 
 Bu proje, .NET ile Aspect Oriented Programming (AOP) yaklaşımını kullanarak nasıl loglama yapılacağını göstermektedir. Bu örnekte [AspectInjector](https://github.com/pamidur/aspect-injector) kütüphanesi kullanılmıştır.
 
